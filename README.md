@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ilaiyaraja221197/ilaiyaraja221197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100&width=100"/>
 </p>
-![<Badge Name>](https://img.shields.io/badge/Hello-blue?style=for-the-badge&logo=Raja&logoColor=red)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&width=100&animation=fadeIn&color=gradient"/>
+</p>
