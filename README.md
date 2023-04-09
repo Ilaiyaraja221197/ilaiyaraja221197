@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ![<Badge Name>](https://img.shields.io/badge/Hello-blue?style=for-the-badge&logo=Raja&logoColor=red)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
