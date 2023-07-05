@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100&width=100"/>
 </p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaiyaraja221197)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ilaiyaraja221197)  
 
 <div align="center">
