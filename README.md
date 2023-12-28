@@ -1,8 +1,10 @@
+<h1 align="center">Hi 👋, I'm Ilaiyaraja</h1>
+<h3 align="center">A passionate software developer by profession.</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilaiyaraja221197/) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ilaiyaraja221197&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ilaiyaraja221197&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilaiyaraja221197&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@ilaiyaraja221197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ilaiyaraja221197" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilaiyaraja221197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaiyaraja221197" height="30" width="40" /></a>
+<a href="https://instagram.com/ivanrajaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanrajaa_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ilaiyaraja221197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ilaiyaraja221197" height="30" width="40" /></a>
+</p>
